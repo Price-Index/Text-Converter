@@ -39,7 +39,7 @@ def on_focus_out(event):
         file_path_entry.insert(0, "path/to/file")
         file_path_entry.configure(text_color="grey")
 
-# Rootr Frame
+# Root Frame
 root = ctk.CTk()
 if platform.system() == 'Windows':
     root.iconbitmap(os.path.join('resources', 'icon.ico'))
