@@ -1,2 +1,5 @@
 # Text-Converter
-Acacia Boat --> acacia_boat
+
+Converts strings of a .txt into a correct format
+
+``Acacia Boat --> acacia_boat``
